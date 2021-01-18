@@ -5,8 +5,10 @@
 **StudentID** : 61070004
 **Name** : Krittima Chantachalee
 
-> King Mongkut's Institute of Technology Ladkrabang
+> [IT @ KMITL](https://www.it.kmitl.ac.th/th/)
 
 ```sh
-print("hello world")
+print("Hello World, IT @ KMITL")
 ```
+
+[![ITLOGO](https://www.it.kmitl.ac.th/wp-content/themes/itkmitl2017wp/img/nav-thai.svg)](https://www.it.kmitl.ac.th/th/)
